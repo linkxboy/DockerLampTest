@@ -3,6 +3,6 @@
 		<title>X Space</title>
 </head>
 <body>
-<h1> This is a test</h1>
+<h1><?php echo "Hello world!"; ?></h1>
 </body>
 </html>
